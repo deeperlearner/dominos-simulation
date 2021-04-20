@@ -1,4 +1,4 @@
-# Dominos-simulation
+# Dominos-Simulation
 Simulation of 1D, 2D, 3D dominos
 
 # In Vpython scene:  
