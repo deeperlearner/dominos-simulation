@@ -1,7 +1,7 @@
 # Dominos Simulation by VPython
 Simulation of 1D, 2D, 3D dominos
 
-# In Vpython scene:  
+# In VPython scene:  
 1. Hold right and left click at the same time and move up or move down: zoom in, zoom out.  
 2. Hold right click and move mouse:change forward direction.
 
